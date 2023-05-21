@@ -1,3 +1,15 @@
+### 2.0.9
+  - Add `info.contact.url` to the templates
+
+### 2.0.8
+  - Dependency updates
+
+### 2.0.7
+  - Dependency updates
+
+### 2.0.6
+  - Dependency updates
+
 ### 2.0.5
   - Remove `foundation-sites` dependency
 
