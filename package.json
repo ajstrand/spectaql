@@ -1,6 +1,6 @@
 {
   "name": "spectaql",
-  "version": "2.0.5",
+  "version": "2.0.9",
   "description": "A powerful library for autogenerating static GraphQL API documentation",
   "author": "Anvil Foundry Inc. <hello@useanvil.com>",
   "homepage": "https://github.com/anvilco/spectaql",
@@ -100,7 +100,7 @@
     "grunt-contrib-concat": "^2.1.0",
     "grunt-contrib-connect": "^3.0.0",
     "grunt-contrib-copy": "^1.0.0",
-    "grunt-contrib-cssmin": "^4.0.0",
+    "grunt-contrib-cssmin": "^5.0.0",
     "grunt-contrib-uglify": "^5.0.1",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-sass": "^3.0.2",
@@ -139,7 +139,7 @@
     "nodemon": "^2.0.20",
     "prettier": "^2.5.1",
     "rewire": "^6.0.0",
-    "rimraf": "^4.0.7",
+    "rimraf": "^5.0.0",
     "sinon": "^15.0.1",
     "sinon-chai": "^3.7.0"
   },
